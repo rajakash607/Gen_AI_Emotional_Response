@@ -135,7 +135,7 @@ We welcome contributions! To get involved:
 
 # Contact 📬
 
-Have questions or feedback? Reach out via your.email@example.com or open a GitHub issue.
+Have questions or feedback? Reach out via rajakash607@gmail.com or open a GitHub issue.
 
 ---
 

@@ -1,0 +1,17 @@
+# --- Core Speech Libraries ---
+SpeechRecognition>=3.8.1
+PyAudio>=0.2.11
+pyttsx3>=2.90
+
+# --- LangChain and Hugging Face API (latest stable) ---
+langchain>=0.1.10
+langchain-community>=0.0.25 # This should cover your 0.3.24 but ensures it's recent
+huggingface-hub>=0.20.0 # Ensure hf_hub is recent enough
+transformers>=4.35.2 # For emotion detection
+
+# --- Emotion Detection Model Dependencies ---
+scikit-learn>=1.0
+torch>=2.1.1 # Keep this if emotion model needs it.
+
+# --- Optional for loading API key from .env file ---
+python-dotenv>=1.0.0
